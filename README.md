@@ -1,7 +1,5 @@
-# Lddom
-Raw Project, need more changes, free to creative, have modding system in JavaScript, welcome to try. >_&lt;
-
 # lddom_ttribute (dDOM Visual Code & Addon Engine)
+Raw Project, need more changes, free to creative, have modding system in JavaScript, welcome to try. >_&lt;
 
 Интерактивный браузерный визуализатор графа кода (`ddom_graph.js`) и модульный движок аддонов без серверных зависимостей.
 
